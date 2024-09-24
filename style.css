@@ -1,0 +1,29 @@
+.nav{
+    background-color: rgba(126, 119, 119, 0.322);
+    padding: 7px;
+}
+
+li div{
+    margin-left: 400px;
+}
+
+.nav-link{
+    color:darkblue;
+}
+
+i{
+    margin-top: 4px;   
+}
+
+.card {
+    margin: 0 auto;
+    width: 50%; /* Adjust the width as needed */
+    margin-top: 10%;
+    text-align: center;
+    padding: 10px;
+}
+
+.form-control {
+    margin-bottom: 10px; 
+}
+

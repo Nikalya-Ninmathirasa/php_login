@@ -2,9 +2,9 @@
 require "header.php";
 ?>
 
-<main>
+<main class="card text-bg-secondary">
     <?php 
-      if(isset($_SESSION['userid'])) {
+      if(isset($_SESSION['userUid'])) {
         echo '<p>You are logged in!!</p>';
       }
 
